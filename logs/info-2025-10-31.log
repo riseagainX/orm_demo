@@ -1,0 +1,55 @@
+[2025-10-31 15:39:37] [DBS-Bank-API] [INFO] Connected to database
+  Data: {
+  "database": "dbs_bank"
+}
+[2025-10-31 15:39:37] [DBS-Bank-API] [INFO] All models loaded and synced successfully
+[2025-10-31 15:39:37] [DBS-Bank-API] [INFO] API Base URL: http://localhost:5000/dbsbank-api/api/v1/home/content/HOME
+[2025-10-31 15:39:41] [DBS-Bank-API] [INFO] getPageContent called
+  Data: {
+  "title": "HOME"
+}
+[2025-10-31 15:39:41] [DBS-Bank-API] [INFO] getHomePageContent started
+[2025-10-31 15:48:06] [DBS-Bank-API] [INFO] Connected to database
+  Data: {
+  "database": "dbs_bank"
+}
+[2025-10-31 15:48:06] [DBS-Bank-API] [INFO] All models loaded and synced successfully
+[2025-10-31 15:48:06] [DBS-Bank-API] [INFO] API Base URL: http://localhost:5000/dbsbank-api/api/v1/home/content/HOME
+[2025-10-31 15:48:11] [DBS-Bank-API] [INFO] getPageContent called
+  Data: {
+  "title": "HOME"
+}
+[2025-10-31 15:48:11] [DBS-Bank-API] [INFO] getHomePageContent started
+[2025-10-31 15:48:11] [DBS-Bank-API] [INFO] getHomePageContent brands fetched
+  Data: {
+  "count": 12
+}
+[2025-10-31 16:01:58] [DBS-Bank-API] [INFO] Connected to database
+  Data: {
+  "database": "dbs_bank"
+}
+[2025-10-31 16:01:58] [DBS-Bank-API] [INFO] All models loaded and synced successfully
+[2025-10-31 16:01:58] [DBS-Bank-API] [INFO] API Base URL: http://localhost:5000/dbsbank-api/api/v1/home/content/HOME
+[2025-10-31 16:02:01] [DBS-Bank-API] [INFO] getPageContent called
+  Data: {
+  "title": "OFFER"
+}
+[2025-10-31 16:02:01] [DBS-Bank-API] [INFO] getSimplePageContent started
+  Data: {
+  "title": "OFFER"
+}
+[2025-10-31 16:40:59] [DBS-Bank-API] [INFO] getPageContent called
+  Data: {
+  "title": "HOME"
+}
+[2025-10-31 16:40:59] [DBS-Bank-API] [INFO] getHomePageContent started
+[2025-10-31 16:40:59] [DBS-Bank-API] [INFO] getHomePageContent brands fetched
+  Data: {
+  "count": 12
+}
+[2025-10-31 18:28:17] [DBS-Bank-API] [INFO] Connected to database
+  Data: {
+  "database": "dbs_bank"
+}
+[2025-10-31 18:28:17] [DBS-Bank-API] [INFO] All models loaded and synced successfully
+[2025-10-31 18:28:17] [DBS-Bank-API] [INFO] API Base URL: http://localhost:5000/dbsbank-api/api/v1/home/content/HOME

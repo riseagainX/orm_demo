@@ -1,0 +1,21 @@
+[2025-10-31 15:39:37] [DBS-Bank-API] [SUCCESS] Database connection successful
+[2025-10-31 15:39:37] [DBS-Bank-API] [SUCCESS] Server running on port 5000
+[2025-10-31 15:48:06] [DBS-Bank-API] [SUCCESS] Database connection successful
+[2025-10-31 15:48:06] [DBS-Bank-API] [SUCCESS] Server running on port 5000
+[2025-10-31 15:48:11] [DBS-Bank-API] [SUCCESS] getHomePageContent completed
+  Data: {
+  "brandCount": 12
+}
+[2025-10-31 16:01:58] [DBS-Bank-API] [SUCCESS] Database connection successful
+[2025-10-31 16:01:58] [DBS-Bank-API] [SUCCESS] Server running on port 5000
+[2025-10-31 16:02:01] [DBS-Bank-API] [SUCCESS] getSimplePageContent completed
+  Data: {
+  "title": "OFFER",
+  "found": true
+}
+[2025-10-31 16:40:59] [DBS-Bank-API] [SUCCESS] getHomePageContent completed
+  Data: {
+  "brandCount": 12
+}
+[2025-10-31 18:28:17] [DBS-Bank-API] [SUCCESS] Database connection successful
+[2025-10-31 18:28:17] [DBS-Bank-API] [SUCCESS] Server running on port 5000

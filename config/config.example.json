@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "your_db_username",
+    "password": "your_db_password",
+    "database": "dbs_bank",
+    "host": "localhost",
+    "dialect": "mysql",
+    "port": "3306",
+    "JWT_SECRET": "your_jwt_secret_here",
+    "encryptionKey": "your_encryption_key_here",
+    "serverPort": 5000
+  },
+  "test": {
+    "username": "your_db_username",
+    "password": "your_db_password",
+    "database": "dbs_bank",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "your_db_username",
+    "password": "your_db_password",
+    "database": "dbs_bank",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
