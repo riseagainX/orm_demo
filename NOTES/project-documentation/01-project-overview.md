@@ -1,8 +1,8 @@
-# DBS Bank Homepage API - Complete Project Overview
+ Ho
 
 ## 🎯 Project Purpose
 
-**DBS Bank Homepage API** is a RESTful backend application that powers an e-commerce platform for digital gift vouchers and rewards. The system allows users to browse brands, products, apply promotions, manage shopping carts, and place orders with coupon support.
+omepage API** is a RESTful backend application that powers an e-commerce platform for digital gift vouchers and rewards. The system allows users to browse brands, products, apply promotions, manage shopping carts, and place orders with coupon support.
 
 ---
 
